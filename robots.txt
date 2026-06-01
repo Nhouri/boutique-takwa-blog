@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://parfumdubai.netlify.app/sitemap.xml
